@@ -1,11 +1,11 @@
 # Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+bin-debug/testactionscript
+bin-release/useactionscript
+[Oo]bj/runactionscript
+[Bb]in/getactionscript
 
 # Other files and folders
-.settings/
+.settings/actionscript-settings
 
 # Executables
 test.swf
